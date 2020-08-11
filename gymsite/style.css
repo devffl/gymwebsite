@@ -1,0 +1,21 @@
+html{
+    scroll-behavior: smooth;
+}
+
+#down{
+    margin-top:auto;
+    padding-bottom: auto;
+}
+
+.header{
+    position: inherit;
+    padding-right: auto;
+}
+
+
+.leftfix{
+    padding-left: 70%;
+    position: fixed;
+}
+
+
